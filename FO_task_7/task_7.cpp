@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     vector<string> names;
-    ofstream out("Students.txt");
+    ofstream out("students.txt");
     out << "hadeer Mahmoud" << endl;
     out << "youssef Ali" << endl;
     out << "ahmed Mostafa" << endl;
